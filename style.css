@@ -3,6 +3,8 @@
     margin: 0%;
 }
 body{
+    position: relative;
+    height:980px;
     color: grey;
 }
 nav{
